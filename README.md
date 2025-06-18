@@ -68,15 +68,3 @@
 2. Click “Analyze Plant”.
 3. View the analysis results on-screen.
 4. Click “Download PDF Report” to save the report.
-
----
-
-## 📃 License
-
-This project is for educational/demo purposes.
-
----
-
-## 👨‍💻 Author
-
-Built with 💚 using Node.js and Gemini AI.
