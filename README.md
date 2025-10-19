@@ -48,7 +48,7 @@
    ```
 
 5. **Open in browser**  
-   Visit: [http://localhost:3002](http://localhost:3002)
+   Visit: [http://localhost:3000](http://localhost:3000)
 
 ---
 
@@ -68,3 +68,4 @@
 2. Click “Analyze Plant”.
 3. View the analysis results on-screen.
 4. Click “Download PDF Report” to save the report.
+
