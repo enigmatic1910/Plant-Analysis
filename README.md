@@ -2,7 +2,7 @@
 
 **PlantScan** is a web-based tool that allows users to upload a plant image and receive a detailed AI-powered analysis of its species, health condition, and care instructions. It also generates a downloadable PDF report using Google Gemini AI.
 
----
+---<img width="1858" height="965" alt="Screenshot 2025-10-19 135220" src="https://github.com/user-attachments/assets/258ce100-3783-4124-88ce-cfcdf7a397a5" />
 
 ## 🚀 Features
 
@@ -68,4 +68,5 @@
 2. Click “Analyze Plant”.
 3. View the analysis results on-screen.
 4. Click “Download PDF Report” to save the report.
+
 
